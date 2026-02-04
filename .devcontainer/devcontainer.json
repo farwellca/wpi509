@@ -1,0 +1,12 @@
+{
+	"name": "wpi",
+	"image": "mcr.microsoft.com/devcontainers/dotnet",
+	"extensions": [
+		"editorconfig.editorconfig",
+		"ms-dotnettools.csharp",
+		"ms-dotnettools.csdevkit"
+	],
+	"settings": {
+		"editor.formatOnSave": true
+	},
+}
